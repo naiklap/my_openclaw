@@ -1,3 +1,6 @@
 fastapi
 uvicorn
 python-telegram-bot
+requests
+python-dotenv
+httpx
